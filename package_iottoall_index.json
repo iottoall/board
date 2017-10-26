@@ -14,9 +14,9 @@
           "architecture": "avr",
           "version": "1.0.0",
           "category": "Contributed",
-          "url": "https://MCUdude.github.io/MightyCore/MightyCore-1.0.0.tar.gz",
-          "archiveFileName": "MightyCore-1.0.0.tar.gz",
-          "checksum": "SHA-256:283b442209cef5406bc7c21074664e1b2783d9b5997f50b3195a5c6cd0ee4de5",
+          "url": "https://github.com/iottoall/board/blob/master/iottoall-1.0.0.tar.gz",
+          "archiveFileName": "iottoall-1.0.0.tar.gz",
+          "checksum": "SHA-256:EE5A86CCF8CFD0A6CCE4CE9D72107EAD58491531FE138C3BE8131529F49C4388",
           "size": "306232",
           "boards": [
 			{"name": "ATmega328p"}
