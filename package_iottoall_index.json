@@ -14,9 +14,9 @@
           "architecture": "avr",
           "version": "1.0.0",
           "category": "Contributed",
-          "url": "https://github.com/iottoall/board/blob/master/iottoall-1.0.0.tar.gz",
+          "url": "http://www.iottoall.com/json/iottoall-1.0.0.tar.gz",
           "archiveFileName": "iottoall-1.0.0.tar.gz",
-          "checksum": "SHA-256:EE5A86CCF8CFD0A6CCE4CE9D72107EAD58491531FE138C3BE8131529F49C4388",
+          "checksum": "SHA-256:1C6C9B88A0622DDBB64490F6F7D86393BE836799C3E8167E2506500B7F881CB2",
           "size": "306232",
           "boards": [
 			{"name": "ATmega328p"}
